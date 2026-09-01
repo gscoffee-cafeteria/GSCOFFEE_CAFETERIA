@@ -9,11 +9,10 @@ node_modules/
 
 # Arquivos do sistema
 .DS_Store
-Thumbs.dbbackend/uploads/
+Thumbs.db
+
+# Arquivos do Windows
+**/Thumbs.db
 
 # Uploads gerados pelo sistema
 backend/uploads/
-
-# Arquivos do Windows
-Thumbs.db
-**/Thumbs.db
